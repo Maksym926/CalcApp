@@ -1,0 +1,7 @@
+D:\C# pl\CalcEngineUniversal2\CalcEngine\Lists\bin\Debug\Lists.exe.config
+D:\C# pl\CalcEngineUniversal2\CalcEngine\Lists\bin\Debug\Lists.exe
+D:\C# pl\CalcEngineUniversal2\CalcEngine\Lists\bin\Debug\Lists.pdb
+D:\C# pl\CalcEngineUniversal2\CalcEngine\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+D:\C# pl\CalcEngineUniversal2\CalcEngine\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+D:\C# pl\CalcEngineUniversal2\CalcEngine\Lists\obj\Debug\Lists.exe
+D:\C# pl\CalcEngineUniversal2\CalcEngine\Lists\obj\Debug\Lists.pdb

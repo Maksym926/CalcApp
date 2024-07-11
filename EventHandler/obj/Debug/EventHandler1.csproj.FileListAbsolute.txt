@@ -1,0 +1,6 @@
+D:\C# pl\CalcEngine - Copy\CalcEngine\EventHandler\bin\Debug\EventHandler.exe.config
+D:\C# pl\CalcEngine - Copy\CalcEngine\EventHandler\bin\Debug\EventHandler.exe
+D:\C# pl\CalcEngine - Copy\CalcEngine\EventHandler\bin\Debug\EventHandler.pdb
+D:\C# pl\CalcEngine - Copy\CalcEngine\EventHandler\obj\Debug\EventHandler1.csproj.CoreCompileInputs.cache
+D:\C# pl\CalcEngine - Copy\CalcEngine\EventHandler\obj\Debug\EventHandler.exe
+D:\C# pl\CalcEngine - Copy\CalcEngine\EventHandler\obj\Debug\EventHandler.pdb
