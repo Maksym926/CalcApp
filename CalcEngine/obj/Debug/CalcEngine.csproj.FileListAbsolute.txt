@@ -1,0 +1,42 @@
+D:\C# pl\CalcEngine\CalcEngine\CalcEngine\bin\Debug\CalcEngine.exe.config
+D:\C# pl\CalcEngine\CalcEngine\CalcEngine\bin\Debug\CalcEngine.exe
+D:\C# pl\CalcEngine\CalcEngine\CalcEngine\bin\Debug\CalcEngine.pdb
+D:\C# pl\CalcEngine\CalcEngine\CalcEngine\obj\Debug\CalcEngine.csproj.AssemblyReference.cache
+D:\C# pl\CalcEngine\CalcEngine\CalcEngine\obj\Debug\CalcEngine.csproj.CoreCompileInputs.cache
+D:\C# pl\CalcEngine\CalcEngine\CalcEngine\obj\Debug\CalcEngine.exe
+D:\C# pl\CalcEngine\CalcEngine\CalcEngine\obj\Debug\CalcEngine.pdb
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcEngine\obj\Debug\CalcEngine.csproj.CoreCompileInputs.cache
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcEngine\obj\Debug\CalcEngine.pdb
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcEngine\bin\Debug\CalcEngine.pdb
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcEngine\obj\Debug\CalcEngine.csproj.AssemblyReference.cache
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcEngine\bin\Debug\CalcEngine.exe.config
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcEngine\bin\Debug\CalcEngine.exe
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcEngine\obj\Debug\CalcEngine.exe
+D:\C# pl\CalcEngineUniversal\CalcEngine\CalcEngine\bin\Debug\CalcEngine.pdb
+D:\C# pl\CalcEngineUniversal\CalcEngine\CalcEngine\obj\Debug\CalcEngine.csproj.AssemblyReference.cache
+D:\C# pl\CalcEngineUniversal\CalcEngine\CalcEngine\obj\Debug\CalcEngine.csproj.CoreCompileInputs.cache
+D:\C# pl\CalcEngineUniversal\CalcEngine\CalcEngine\obj\Debug\CalcEngine.pdb
+D:\C# pl\CalcEngineUniversal\CalcEngine\CalcEngine\bin\Debug\CalcEngine.dll.config
+D:\C# pl\CalcEngineUniversal\CalcEngine\CalcEngine\bin\Debug\CalcEngine.dll
+D:\C# pl\CalcEngineUniversal\CalcEngine\CalcEngine\obj\Debug\CalcEngine.dll
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\bin\Debug\CalcEngine.dll.config
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\bin\Debug\CalcEngine.dll
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\bin\Debug\CalcEngine.pdb
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\obj\Debug\CalcEngine.csproj.AssemblyReference.cache
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\obj\Debug\CalcEngine.csproj.CoreCompileInputs.cache
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\obj\Debug\CalcEngine.dll
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\obj\Debug\CalcEngine.pdb
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\bin\Debug\CalcEngine.dll.config
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\bin\Debug\CalcEngine.dll
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\bin\Debug\CalcEngine.pdb
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\obj\Debug\CalcEngine.csproj.AssemblyReference.cache
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\obj\Debug\CalcEngine.csproj.CoreCompileInputs.cache
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\obj\Debug\CalcEngine.dll
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcEngine\obj\Debug\CalcEngine.pdb
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcEngine\bin\Debug\CalcEngine.dll.config
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcEngine\bin\Debug\CalcEngine.dll
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcEngine\bin\Debug\CalcEngine.pdb
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcEngine\obj\Debug\CalcEngine.csproj.AssemblyReference.cache
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcEngine\obj\Debug\CalcEngine.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcEngine\obj\Debug\CalcEngine.dll
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcEngine\obj\Debug\CalcEngine.pdb

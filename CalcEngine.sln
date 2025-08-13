@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcEngine", "CalcEngine\CalcEngine.csproj", "{F44994D7-599C-431F-ADBA-643962DFC713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcForm", "CalcForm\CalcForm.csproj", "{E292F04B-E728-40D7-A232-96A27CFC17C7}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebCalc", "WebCalc\", "{F12AD235-A47B-41AE-9006-3ED7FFA24A98}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		ProjectReferences = "{f44994d7-599c-431f-adba-643962dfc713}|CalcEngine.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56470"
+		Debug.AspNetCompiler.PhysicalPath = "WebCalc\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56470\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56470"
+		Release.AspNetCompiler.PhysicalPath = "WebCalc\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56470\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56470"
+		SlnRelativePath = "WebCalc\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleView", "ConsoleView\ConsoleView.csproj", "{2D759E24-7580-4C19-A9D8-C66127137696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44994D7-599C-431F-ADBA-643962DFC713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44994D7-599C-431F-ADBA-643962DFC713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44994D7-599C-431F-ADBA-643962DFC713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44994D7-599C-431F-ADBA-643962DFC713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E292F04B-E728-40D7-A232-96A27CFC17C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E292F04B-E728-40D7-A232-96A27CFC17C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E292F04B-E728-40D7-A232-96A27CFC17C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E292F04B-E728-40D7-A232-96A27CFC17C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12AD235-A47B-41AE-9006-3ED7FFA24A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12AD235-A47B-41AE-9006-3ED7FFA24A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12AD235-A47B-41AE-9006-3ED7FFA24A98}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12AD235-A47B-41AE-9006-3ED7FFA24A98}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2D759E24-7580-4C19-A9D8-C66127137696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D759E24-7580-4C19-A9D8-C66127137696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D759E24-7580-4C19-A9D8-C66127137696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D759E24-7580-4C19-A9D8-C66127137696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F32F2EBC-3CBE-47C9-B3D9-43A3443104D0}
+	EndGlobalSection
+EndGlobal

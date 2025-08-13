@@ -1,0 +1,14 @@
+D:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\bin\Debug\StaticClassFields.exe.config
+D:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\bin\Debug\StaticClassFields.exe
+D:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\bin\Debug\StaticClassFields.pdb
+D:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\obj\Debug\StaticClassFields.csproj.AssemblyReference.cache
+D:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\obj\Debug\StaticClassFields.csproj.CoreCompileInputs.cache
+D:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\obj\Debug\StaticClassFields.exe
+D:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\obj\Debug\StaticClassFields.pdb
+E:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\bin\Debug\StaticClassFields.exe.config
+E:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\bin\Debug\StaticClassFields.exe
+E:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\bin\Debug\StaticClassFields.pdb
+E:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\obj\Debug\StaticClassFields.csproj.AssemblyReference.cache
+E:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\obj\Debug\StaticClassFields.csproj.CoreCompileInputs.cache
+E:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\obj\Debug\StaticClassFields.exe
+E:\C# pl\CalcEngineUniversal2\CalcEngine\StaticClassFields\obj\Debug\StaticClassFields.pdb

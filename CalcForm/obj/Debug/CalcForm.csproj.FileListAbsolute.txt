@@ -1,0 +1,59 @@
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\bin\Debug\CalcForm.exe.config
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\bin\Debug\CalcForm.exe
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\bin\Debug\CalcForm.pdb
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\bin\Debug\CalcEngine.exe
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\bin\Debug\CalcEngine.pdb
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\bin\Debug\CalcEngine.exe.config
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.AssemblyReference.cache
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.CoreCompileInputs.cache
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.CopyComplete
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\obj\Debug\CalcForm.exe
+D:\C# pl\CalcEngine\CalcEngine\CalcForm\obj\Debug\CalcForm.pdb
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\bin\Debug\CalcForm.exe.config
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\bin\Debug\CalcForm.exe
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\bin\Debug\CalcForm.pdb
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\bin\Debug\CalcEngine.pdb
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.AssemblyReference.cache
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.CoreCompileInputs.cache
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.CopyComplete
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\obj\Debug\CalcForm.exe
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\obj\Debug\CalcForm.pdb
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\bin\Debug\CalcEngine.exe
+D:\C# pl\CalcEngine - Copy\CalcEngine\CalcForm\bin\Debug\CalcEngine.exe.config
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcForm.exe.config
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcForm.exe
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcForm.pdb
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcEngine.dll
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcEngine.pdb
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcEngine.dll.config
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.AssemblyReference.cache
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.CoreCompileInputs.cache
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.CopyComplete
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.exe
+D:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.pdb
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcForm.exe.config
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcForm.exe
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcForm.pdb
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcEngine.dll
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcEngine.pdb
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\bin\Debug\CalcEngine.dll.config
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.AssemblyReference.cache
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.WinForm.resources
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.GenerateResource.cache
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.CoreCompileInputs.cache
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.csproj.CopyComplete
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.exe
+E:\C# pl\CalcEngineUniversal2\CalcEngine\CalcForm\obj\Debug\CalcForm.pdb
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\bin\Debug\CalcForm.exe.config
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\bin\Debug\CalcForm.exe
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\bin\Debug\CalcForm.pdb
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\bin\Debug\CalcEngine.dll
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\bin\Debug\CalcEngine.pdb
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\bin\Debug\CalcEngine.dll.config
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\obj\Debug\CalcForm.csproj.AssemblyReference.cache
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\obj\Debug\CalcForm.WinForm.resources
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\obj\Debug\CalcForm.csproj.GenerateResource.cache
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\obj\Debug\CalcForm.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\obj\Debug\CalcForm.csproj.Up2Date
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\obj\Debug\CalcForm.exe
+C:\Users\Maksym\Downloads\CalcApp-master\CalcApp-master\CalcForm\obj\Debug\CalcForm.pdb
